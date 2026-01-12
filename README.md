@@ -1,2 +1,3 @@
-# houseplant-store
-A simple e-commerce web application built using React, Redux Toolkit, and React Router that allows users to browse, add, and manage houseplants in their shopping cart. The project demonstrates the use of Redux for global state management, React components for UI, and routing for multi-page navigation.
+🌿 Houseplant Store
+
+A simple and interactive e-commerce web application built using React, Redux Toolkit, and React Router. The app allows users to browse houseplants, add them to a shopping cart, and manage cart items efficiently. This project demonstrates modern React development practices and global state management using Redux.
